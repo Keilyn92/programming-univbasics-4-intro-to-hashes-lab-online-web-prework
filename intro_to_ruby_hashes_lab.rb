@@ -1,4 +1,4 @@
-def new_hash
+gdef dog: [colly, ]
   # return an empty hash
 end
 
@@ -7,7 +7,7 @@ def my_hash
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  #pioneer return a hash with a key of :name and a corresponding value of 'Grace Hopper'
 end
 
 def id_generator
