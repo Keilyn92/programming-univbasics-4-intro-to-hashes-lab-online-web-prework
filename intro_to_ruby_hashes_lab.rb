@@ -1,5 +1,4 @@
-gdef dog: [colly, ]
-  # return an empty hash
+ 
 end
 
 def my_hash
